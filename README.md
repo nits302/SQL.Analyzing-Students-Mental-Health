@@ -1,6 +1,7 @@
 # SQL.-Analyzing-Students-Mental-Health
 
 ![image](https://github.com/nits302/SQL.-Analyzing-Students-Mental-Health/assets/161421206/acbe03ab-287a-4fc6-b656-897cc04e12db)
+
 Brain , concept idea art of thinking, surreal portrait painting, conceptual artwork, 3d illustration
 
 Does going to university in a different country affect your mental health? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
