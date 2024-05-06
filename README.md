@@ -1,4 +1,4 @@
-# SQL.-Analyzing-Students-Mental-Health
+# SQL.Analyzing-Students-Mental-Health
 
 ![image](https://github.com/nits302/SQL.-Analyzing-Students-Mental-Health/assets/161421206/acbe03ab-287a-4fc6-b656-897cc04e12db)
 
